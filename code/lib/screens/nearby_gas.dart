@@ -85,14 +85,14 @@ class _NearbyGasStationsScreenState extends State<NearbyGasStationsScreen> {
         ],
         onTap: (int indexOfItem) {
           if (indexOfItem == 0) {
-            // Navigate to FareShare2 screen
+            // Navigate to fareshare2 screen
             Navigator.push(
               context,
               MaterialPageRoute( builder: (context) => const CustomRoute()),
             );
           } 
           if (indexOfItem == 1) {
-            // Navigate to FareShare2 screen
+            // Navigate to fareshare2 screen
             Navigator.push(
               context,
               MaterialPageRoute(builder: (context) => const BasicRoute()),

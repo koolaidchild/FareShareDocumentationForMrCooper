@@ -406,7 +406,7 @@ class CustomRoutePageState extends State<CustomRoute> {
         ],
         onTap: (int indexOfItem) {
           if (indexOfItem == 1 && _controller.isCompleted) {
-            // Navigate to FareShare2 screen
+            // Navigate to fareshare2 screen
             Navigator.push(
               context,
               MaterialPageRoute(builder: (context) => const BasicRoute()),
@@ -414,7 +414,7 @@ class CustomRoutePageState extends State<CustomRoute> {
           } 
 
           if (indexOfItem == 2 && _controller.isCompleted) {
-            // Navigate to FareShare2 screen
+            // Navigate to fareshare2 screen
             Navigator.push(
               context,
               MaterialPageRoute( builder: (context) => const NearbyGasStationsScreen()),

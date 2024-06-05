@@ -1,6 +1,6 @@
 {
-    "name": "FareShare",
-    "short_name": "FareShare",
+    "name": "fareshare",
+    "short_name": "fareshare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

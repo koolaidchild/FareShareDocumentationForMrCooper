@@ -1,4 +1,4 @@
-package com.FareShare.FareShare
+package com.fareshare.fareshare
 
 import io.flutter.embedding.android.FlutterActivity
 

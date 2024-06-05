@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.FareShare" "\0"
-            VALUE "FileDescription", "FareShare" "\0"
+            VALUE "CompanyName", "com.fareshare" "\0"
+            VALUE "FileDescription", "fareshare" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "FareShare" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.FareShare. All rights reserved." "\0"
-            VALUE "OriginalFilename", "FareShare.exe" "\0"
-            VALUE "ProductName", "FareShare" "\0"
+            VALUE "InternalName", "fareshare" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.fareshare. All rights reserved." "\0"
+            VALUE "OriginalFilename", "fareshare.exe" "\0"
+            VALUE "ProductName", "fareshare" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

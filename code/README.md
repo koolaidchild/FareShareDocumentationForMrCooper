@@ -1,4 +1,4 @@
-# FareShare
+# fareshare
 
 A new Flutter project.
 

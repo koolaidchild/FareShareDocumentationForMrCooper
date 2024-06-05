@@ -47,7 +47,7 @@ class _LoadingScreenState extends State<LoadingScreen>
             RotationTransition(
               turns: Tween(begin: 0.0, end: 2.5).animate(_rotationController),
               child: Image.asset(
-                'assets/FareShareLogo.png',
+                'assets/fareshareLogo.png',
                 width: 200,
                 height: 200,
               ),
